@@ -1,0 +1,6 @@
+@WslPdfApi_HostAddress = http://localhost:5275
+
+GET {{WslPdfApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
